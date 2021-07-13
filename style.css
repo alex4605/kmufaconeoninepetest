@@ -2,3 +2,8 @@ h1 {
     color:dodgerblue;
     text-align: center;
 }
+
+p.instxt {
+    color: navy;
+    text-align: left;
+}
