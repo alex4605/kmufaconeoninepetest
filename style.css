@@ -22,6 +22,12 @@ body {
     width: 50%;
 }
 
+.button {
+    background-color:whitesmoke ;
+    text-align: center;
+    display: inline-block;
+}
+
 head {
     color: turquoise;
 }
