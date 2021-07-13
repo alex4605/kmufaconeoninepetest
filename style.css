@@ -9,7 +9,9 @@ p.instxt {
 }
 
 body {
+    font-size: 200%;
     background-color: black;
+    color: yellow;
 }
 
 article {
