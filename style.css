@@ -8,3 +8,11 @@ p.instxt {
     text-align: left;
 }
 
+body {
+    background-color: black;
+}
+
+article {
+    font-size: 200%;
+    color: yellow;
+}
