@@ -11,6 +11,7 @@ p.instxt {
 body {
     font-size: 200%;
     background-color: black;
+    text-align: center;
     color: yellow;
 }
 
