@@ -9,7 +9,7 @@ p.instxt {
 }
 
 body {
-    font-size: 200%;
+    font-size: 150%;
     background-color: black;
     text-align: center;
     color: rgb(56, 165, 255);
@@ -22,8 +22,12 @@ body {
     width: 50%;
 }
 
+head {
+    color: turquoise;
+}
+
 section {
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
     color: rgb(31, 173, 255);
 }
