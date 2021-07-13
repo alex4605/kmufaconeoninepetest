@@ -15,7 +15,15 @@ body {
     color: rgb(56, 165, 255);
 }
 
-article {
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+section {
     font-size: 200%;
+    text-align: center;
     color: rgb(31, 173, 255);
 }
